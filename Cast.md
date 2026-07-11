@@ -1,4 +1,4 @@
-# Cast
+<h1 style="color:red ; font-size: 10em"> Cast </h1>
 
 [Home](index.md) | [Collectibles](Collectibles.md)
 
