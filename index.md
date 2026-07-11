@@ -1,6 +1,6 @@
 # StarGazers
 
-[Home](index.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
+[Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 <img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo" style="width:300px">
 
@@ -13,6 +13,8 @@ Stargazers are fluent in **JavaScript**, so once you connect to their network, s
 ```js
 console.log("Take me to your leader");
 ```
+
+---
 
 ## Disclaimer
 

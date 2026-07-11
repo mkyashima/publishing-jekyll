@@ -1,4 +1,6 @@
-[Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
+# Collectables
+
+[Home](index.md) | [Cast](Cast.md)
 
 <img src="images/logo_bigstar.svg" alt="StarGazers Logo" style="width:300px">
 
@@ -9,7 +11,7 @@ We have the largest inventory of fan favorite items on the web. And if we don't 
 
 https://github.com/user-attachments/assets/fcfc174c-ba10-4ebf-a060-3e55f37c2fef
 
-
+---
 
 ## Disclaimer
 

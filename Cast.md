@@ -1,4 +1,6 @@
-[Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
+# Cast
+
+[Home](index.md) | [Collectibles](Collectibles.md)
 
 <img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo" style="width:300px">
 
@@ -316,6 +318,8 @@ Violette holds a doctorate degree in Planetary Behaviorism from Fouraluy Univers
 | **Job Title**                  | Planetary Behaviorist                                                  |
 | **Dream Job Title**            | Principle Disco Dancer for the Amethystopia Ballet                     |
 | **Singing Voice**              | mezzo-soprano                                                          |
+
+---
 
 ## Disclaimer
 
