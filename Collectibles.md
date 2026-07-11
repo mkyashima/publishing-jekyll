@@ -1,18 +1,15 @@
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
-<img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo" style="width:300px">
+<img src="images/logo_bigstar.svg" alt="StarGazers Logo" style="width:300px">
 
-# StarGazers
+Founded in 2012, Big Star Collectibles is the premier online retailer of trading card and other collectibles. If your hobby is collecting, we've got the stock you want.
 
-The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
+We have the largest inventory of fan favorite items on the web. And if we don't have it, ask us and our elite Star Hunter team will search the galaxy for your special treasure.
 
-# Communication
 
-Stargazers are fluent in **JavaScript**, so once you connect to their network, simply type in a message into their console.
+https://github.com/user-attachments/assets/fcfc174c-ba10-4ebf-a060-3e55f37c2fef
 
-```js
-console.log("Take me to your leader");
-```
+
 
 ## Disclaimer
 
